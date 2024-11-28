@@ -1,4 +1,5 @@
 package GREEDY_ALGORITIHIM;
+// to count the highest L's and R's in the string array
 public class greedyQues{
     public static void main(String[] args) {
         String str = "LRRRRLLRLLRL";
